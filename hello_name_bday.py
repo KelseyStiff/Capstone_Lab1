@@ -7,7 +7,7 @@ birthday_month = input('Enter your Birthday Month: ')
 
 print(f'Hello and Welcome, {name}!')
 
-if birthday_month.lower() == 'august':
+if birthday_month.lower() == 'january':
     print(f'Happy Birthday {name}!')
 
 print(f'There are {len(name)} letters in your name.')
